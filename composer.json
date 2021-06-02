@@ -1,0 +1,18 @@
+{
+    "name": "arthurvieira/gethub",
+    "description": "Biblioteca em PHP para buscar dados de usuários e repositórios do GitHub",
+    "authors": [
+        {
+            "name": "Arthur Abreu Vieira Mendes",
+            "email": "arthurabreuvieiramendes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArthurVieira\\GetHub\\": "src/"
+        }
+    }
+}
