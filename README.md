@@ -1,7 +1,7 @@
 # ArthurVieira/GetHub
 ### GetHub é uma biblioteca em PHP para buscar dados de usuários e repositórios do GitHub. 
 -------------------
-# Instalação 
+# ⬇️ Instalação 
 ```bash 
   #require the package
   composer require arthurvieira/gethub
@@ -10,7 +10,7 @@
   composer install
 ```
 -------------------
-# Uso
+# 💻 Uso
 ```php
   <?php
   //import the autoload file
