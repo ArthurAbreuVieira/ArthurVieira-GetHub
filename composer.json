@@ -1,6 +1,7 @@
 {
     "name": "arthurvieira/gethub",
     "description": "Biblioteca em PHP para buscar dados de usuários e repositórios do GitHub",
+    "license": "MIT",
     "authors": [
         {
             "name": "Arthur Abreu Vieira Mendes",
