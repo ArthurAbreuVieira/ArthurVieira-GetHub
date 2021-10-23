@@ -31,7 +31,7 @@
   ```
 ### * ✅ Buscar um repositório específico pelo nickname e nome do repositório do GitHub
   ```php
-    GetHub::getRepo($nickname);
+    GetHub::getRepo($nickname, $repository);
     //Deve retornar um array associativo com os dados do repositório requisitado
   ```
 ### * ✅ Buscar todos os repositórios públicos de um usário pelo nickname do GitHub
